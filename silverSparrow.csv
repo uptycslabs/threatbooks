@@ -1,0 +1,11 @@
+indicator,description,type
+30c9bc7d40454e501c358f77449071aa,v1 updater.pkg md5,hash
+c7dd06b20b64b64d3b155b6b77c2778a08ef6a6c0396d7537af411258e57af1e,v1 updater.pkg sha256,hash
+c668003c9c5b1689ba47a431512b03cc,v1 mach-o intel binary md5,hash
+api.mobiletraits.com,v1 api c2 domain,dns
+mobiletraits.s3.amazonaws.com,v1 s3 bucket for version.json,dns
+fdd6fb2b1dfe07b0e57d4cbfef9c8149,v2 update.pkg md5,hash
+1decb4070db4dfe5d68ba502cf3a67de96a69ea6f3acfa4454795f96472ccc0d,v2 update.pkg sha256,hash
+b370191228fef82635e39a137be470af,v2 mach-o intel/m1 binary md5,hash
+api.specialattributes.com,v2 api c2 domain,dns
+specialattributes.s3.amazonaws.com,v2 s3 bucket for version.json,dns
