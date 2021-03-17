@@ -1,5 +1,5 @@
 indicator,description,type
-# Credit to McAfee ATR (https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-dianxun.pdf)
+Credit to McAfee ATR (https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-dianxun.pdf),,comment
 422e3b16e431daa07bae951eed08429a0c4ccf8e37746c733be512f1a5a160a3,Stage 1: Fake Flash,hash
 8489ee84e810b5ed337f8496330e69d6840e7c8e228b245f6e28ac6905c19f4a,Stage 1: Fake Flash,hash
 c0331d4dee56ef0a8bb8e3d31bdfd3381bafc6ee80b85b338cee4001f7fb3d8c,Stage 1: Fake Flash,hash
